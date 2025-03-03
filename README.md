@@ -1,2 +1,2 @@
 # Holle-World
-This is your dirst project on GitHub !
+This is your first project on GitHub !
